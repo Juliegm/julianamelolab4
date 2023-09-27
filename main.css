@@ -1,0 +1,22 @@
+html{background-color:rgb(200, 219, 190);
+    color:rgb(63, 35, 5);
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif}
+  .top{text-align:center;}
+  .menu {list-style-type: none;
+      display: inline;
+      padding-left: 30px;
+      padding-right: 20px;
+      margin-left:10px;
+      margin-right:50px;
+      font-size: 30px;}
+  #main-content{margin-top:30px;
+    margin-bottom:40px;
+    padding-left:50px;
+    padding-top:10px;
+    padding-bottom:20px;
+    border-style:double;
+    border-width:10px;
+    border-radius: 25px;
+    background-color:rgb(243, 222, 186);
+    color:rgb(63, 35, 5);}
+footer{font-size:12px}
